@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: asifbst/node-app:latest
+    image: asifbst/node-app-batch-6
     ports:
       - "8000:8000"
